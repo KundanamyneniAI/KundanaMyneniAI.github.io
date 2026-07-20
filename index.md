@@ -1,4 +1,4 @@
-# Satwik Myneni
+# Kundana Myneni
 
 ## AI & Machine Learning Portfolio
 
