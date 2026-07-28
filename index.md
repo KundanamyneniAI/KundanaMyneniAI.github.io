@@ -28,3 +28,22 @@ This portfolio showcases my projects, coursework, leadership development, and pr
 - Research
 - Resume
 - Certifications
+
+
+# Portfolio Artifacts
+
+---
+
+## Artifact 1 – AI & Machine Learning Timeline
+
+Explores the evolution of AI and Machine Learning.
+
+➡️ [View Artifact 1](artifacts/artifact1/)
+
+---
+
+## Artifact 2 – Machine Learning vs Deep Learning
+
+Compares Machine Learning and Deep Learning using real-world examples and practical applications.
+
+➡️ [View Artifact 2](artifacts/artifact2/)
