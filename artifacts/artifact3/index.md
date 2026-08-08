@@ -1,8 +1,3 @@
----
-layout: default
-title: Artifact 3 - Machine Learning Training Methods
----
-
 # Artifact 3: Understanding Machine Learning Training Methods
 
 ## Overview
