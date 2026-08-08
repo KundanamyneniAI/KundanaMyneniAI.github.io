@@ -47,3 +47,11 @@ Explores the evolution of AI and Machine Learning.
 Compares Machine Learning and Deep Learning using real-world examples and practical applications.
 
 ➡️ [View Artifact 2](artifacts/artifact2/)
+
+---
+
+## Artifact 3 – Understanding Machine Learning Training Methods
+
+Understanding/selecting ML training methods.
+
+➡️ [View Artifact 3](artifacts/artifact3/)
