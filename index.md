@@ -62,4 +62,4 @@ Understanding/selecting ML training methods.
 
 This artifact demonstrates my understanding of data quality, data drift, and concept drift in machine learning systems.
 
-[View Artifact 4 →](artifacts/artifact4/)
+➡️ [View Artifact 4 →](artifacts/artifact4/)
