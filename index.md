@@ -55,3 +55,11 @@ Compares Machine Learning and Deep Learning using real-world examples and practi
 Understanding/selecting ML training methods.
 
 ➡️ [View Artifact 3](artifacts/artifact3/)
+
+---
+
+## Artifact 4 - Data Challenge Scenarios
+
+This artifact demonstrates my understanding of data quality, data drift, and concept drift in machine learning systems.
+
+[View Artifact 4 →](artifacts/artifact4/)
